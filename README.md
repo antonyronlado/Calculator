@@ -44,7 +44,7 @@ Use the calculator interface to perform arithmetic calculations.
 Results will be displayed in real-time.
 
 ## Folder Structure
-
+<pre>
 calculator-app/
 │
 ├── node_modules/
@@ -68,7 +68,7 @@ calculator-app/
 ├── package.json
 ├── package-lock.json
 └── README.md
-
+</pre>
 
 ## Technologies
 - React.js

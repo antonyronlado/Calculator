@@ -4,7 +4,6 @@ A simple and intuitive calculator app built with **React.js**. Perform basic ari
 
 ## Table of Contents
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Folder Structure](#folder-structure)
@@ -16,10 +15,6 @@ A simple and intuitive calculator app built with **React.js**. Perform basic ari
 - Responsive design
 - Easy-to-use interface
 - Built with React functional components
-
-## Demo
-Try it live: [Click Here](https://your-live-demo-link.com)  
-*Replace the link with your actual deployed URL.*
 
 ## Installation
 1. Clone the repository:

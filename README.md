@@ -45,7 +45,7 @@ Results will be displayed in real-time.
 
 ## Folder Structure
 <pre>
-calculator-app/
+Calculator/
 │
 ├── node_modules/
 ├── public/

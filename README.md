@@ -19,11 +19,11 @@ A simple and intuitive calculator app built with **React.js**. Perform basic ari
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/calculator-app.git
+    git clone https://github.com/your-username/calculator.git
     ```
 2. Navigate to the project folder:
     ```bash
-    cd calculator-app
+    cd calculator
     ```
 3. Install dependencies:
     ```bash
